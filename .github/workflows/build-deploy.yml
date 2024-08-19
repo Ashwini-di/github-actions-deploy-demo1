@@ -35,5 +35,5 @@ jobs:
           outputPath: '/outputdar'
           versionNumber: ${{ vars.VERSIONNUMBER }}
           packageName: 'appForAction-1.0.dar'
-          environmentId: 'Environments/envForAction'
+          environmentId: 'Environments/demoenv'
           rollback: 'yes'
